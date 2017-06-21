@@ -1,15 +1,3 @@
-﻿//  -----------------------------------------------------------------------
-//   Project: 0HAN1963
-//   Author: Sam Mullins
-//   ----------------------------------------------------------------------
-//   <copyright file="ApplicationSettingsConfigConfigurationProvider.cs" company="Redweb Ltd.">
-//     Copyright © Redweb Ltd.
-//   </copyright>
-//   <license>
-//     This source code file is owned by Redweb Ltd.  All rights reserved.
-//   </license>
-//  -----------------------------------------------------------------------
-
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
