@@ -1,1 +1,1 @@
-# TG.AppSettings
+# TG.ConfigurationSettings
